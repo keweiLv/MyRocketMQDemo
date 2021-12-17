@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+rocketmq:
+  name-server: 1.14.161.232:9876
+  producer:
+    group: my-producer-group

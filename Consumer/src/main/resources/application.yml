@@ -1,0 +1,5 @@
+server:
+  port: 8082
+
+rocketmq:
+  name-server: 1.14.161.232:9876
